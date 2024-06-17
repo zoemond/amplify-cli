@@ -170,6 +170,7 @@
     "pkg-fetch": "https://github.com/aws-amplify/pkg-fetch#ad4a21feb533d338bf951e7ba28cea7256aedeff"
   },
   "volta": {
-    "node": "18.20.3"
+    "node": "18.20.3",
+    "yarn": "3.5.0"
   }
 }
